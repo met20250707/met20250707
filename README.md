@@ -18,4 +18,4 @@
 
 此外，部分网站还允许用户评论和评分，帮助其他观众选择优质内容。通过社交分享功能，你可以轻松将喜爱的影片推荐给朋友，进一步增强平台的互动性和活跃度。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/met20250707/met20250707 ）</span>
